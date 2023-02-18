@@ -1,0 +1,5 @@
+namespace: jboivie
+name: apache_vhost_collection
+version: 1.0.0
+description: A collection containing the apache_vhost role.
+
